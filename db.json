@@ -1,4 +1,5 @@
-[
+{
+   "posts" : [
     {
     "id":"1",
     "name":"Abhishek",
@@ -14,4 +15,5 @@
     "name":"Nikhil",
     "address":"satara"
     },
-]
+   ]
+}
