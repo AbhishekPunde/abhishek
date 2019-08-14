@@ -1,19 +1,7 @@
 {
    "profiles" : [
-    {
-    "id":"1",
-    "name":"Abhishek",
-    "address":"Nerul"
-    },
-    {
-    "id":"2",
-    "name":"Shailesh",
-    "address":"Latur"
-    },
-    {
-    "id":"3",
-    "name":"Nikhil",
-    "address":"satara"
-    },
+    {"id":1,"name":"Abhishek","address":"Nerul"},
+    {"id":2,"name":"Shailesh","address":"Latur"},
+    {"id":3,"name":"Nikhil","address":"Satara"}
    ]
 }
