@@ -1,7 +1,28 @@
 {
-   "profiles" : [
-    {"id":1,"name":"Abhishek","address":"Nerul"},
-    {"id":2,"name":"Shailesh","address":"Latur"},
-    {"id":3,"name":"Nikhil","address":"Satara"}
-   ]
+  "posts": [
+    {
+      "address": "Pune",
+      "dob": "2000-12-20",
+      "email": "shailesh@gmail.com",
+      "mobile": "8779541314",
+      "name": "Shailesh Shinde",
+      "id": 2
+    },
+    {
+      "address": "Kanjurmarg",
+      "dob": "1997-11-30",
+      "email": "abhishekpunde@gmail.com",
+      "mobile": "8779541314",
+      "name": "Abhishek Punde",
+      "id": 4
+    },
+    {
+      "address": "Airoli",
+      "dob": "1993-11-15",
+      "email": "nikhil@gmail.com",
+      "mobile": "9892052333",
+      "name": "Nikhil Raskar",
+      "id": 5
+    }
+  ]
 }
